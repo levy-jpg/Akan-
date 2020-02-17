@@ -13,7 +13,8 @@ body {
 }
 h1 {
     font-family: 'Times New Roman', Times, serif;
-    color: white;
+    color: red;
+    text-decoration: white;
     text-align: center;
     
 

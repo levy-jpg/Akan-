@@ -33,7 +33,7 @@
 
 ## Project Screenshot
 
-<img src="Images/screenshot.jpg" width=300px >
+<img src="Images/screenshot1.jpg" width=300px >
 - This is the landing page of the website.
 <img src="Images/screenshot2.jpg" width=300px>
 - This is the section where one gets to fill out the form.

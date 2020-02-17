@@ -33,9 +33,9 @@
 
 ## Project Screenshot
 
-<img src="images/screenshot1.jpg" width=300px >
+<img src="Images/screenshot1.jpg" width=300px >
 - This is the landing page of the website.
-<img src="images/screenshot2.jpg" width=300px>
+<img src="Images/screenshot2.jpg" width=300px>
 - This is the section where one gets to fill out the form.
 
 ## Technologies Used
@@ -46,9 +46,8 @@
  
  ## Acknowledgement 
  I would like to thank the following for their assistance through out this project.
-  - The Almighty God
   - Collegues for their assistance in the project
-  - And finally Myself :-)
+  - The TM's for provding assitance in the project
 
 ## Licence
 

@@ -38,7 +38,9 @@ var submission = function() {
     var female = document.getElementById("female")
     
     if (month =="" && year =="" && day =="" && name=="") {
-      alert("Please Enter you credentials");
+        output.style.background ="black"
+        output.style.color= "white"
+        output.innerHTML = "please enter your credentials! "
       return false;
     }
   
@@ -78,7 +80,7 @@ var submission = function() {
     }
      else if(female.checked && year > 0 && month > 0 && month < 12 && day > 0 && day < 32) {
       output.style.background ="white"
-      output.style.background ="red"
+      output.style.background ="black"
       output.innerHTML = name + " you were born on a " + daysOfTheWeek[results] + " and your Akan name is " + femaleNames[results];
   }
   
